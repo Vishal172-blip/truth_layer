@@ -1,0 +1,7 @@
+streamlit
+pdfplumber
+openai
+tavily-python
+ddgs
+python-dotenv
+reportlab

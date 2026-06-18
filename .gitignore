@@ -1,0 +1,27 @@
+# Secrets
+.env
+.streamlit/secrets.toml
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+
+# PDFs (user uploads) — sample file is explicitly allowed
+*.pdf
+!assets/sample_trap.pdf
+
+# OS / IDE
+.DS_Store
+.idea/
+.vscode/
+
+# Build artifacts
+*.egg-info/
+dist/
+build/
